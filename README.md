@@ -1,23 +1,24 @@
 # DISCORD LOOPED MUSIC
-
-
-
-SETUP
-
+</BR>
+</BR>
+</BR>
+SETUP</BR>
+</BR>
 1- Download Python (Click "Add to path" while downloading)
-2- Run cmd on folder
-3- Type "pip install discord" then "pip install asyncio"
-4- Download ffmpeg for pc
-5- Change ffmpeg directory in bot.py
-6- type bot.py in cmd which you run in folder
-7- Done :)
-
-SUPPORT
-
-INSTAGRAM:  FURKAN.ZRV
-DISCORD:    FURKAN.ZRV
-VK:         FURKAN.ZRV
-REDNOTE:    FURKAN.ZRV
-LINKEDIN:   FURKAN.ZRV
-SIGMA:      FURKAN.ZRV
-ETC...      FURKAN.ZRV
+</BR>
+2- Run cmd on folder</BR>
+3- Type "pip install discord" then "pip install asyncio"</BR>
+4- Download ffmpeg for pc</BR>
+5- Change ffmpeg directory in bot.py</BR>
+6- type bot.py in cmd which you run in folder</BR>
+7- Done :)</BR>
+</BR>
+SUPPORT</BR>
+</BR>
+INSTAGRAM:  FURKAN.ZRV</BR>
+DISCORD:    FURKAN.ZRV</BR>
+VK:         FURKAN.ZRV</BR>
+REDNOTE:    FURKAN.ZRV</BR>
+LINKEDIN:   FURKAN.ZRV</BR>
+SIGMA:      FURKAN.ZRV</BR>
+ETC...      FURKAN.ZRV</BR>
